@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋</h1>
-<h3 align="left">I'm Aya Ali, a junior at the Faculty of Computers and Artificial Intelligence</h3>
+<h3 align="left">I'm Aya Ali, Computer Science Graduate From Cairo University</h3>
           
          
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +16,3 @@
 <a href="https://github.com/Aya-A1i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AyaA1i" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyaA1i&show_icons=true&locale=en" alt="AyaA1i" /></p>
